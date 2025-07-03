@@ -1,8 +1,8 @@
 # Palmoria-HR-Case-Study
 Power BI &amp; Excel project analyzing gender equality and salary structure at Palmoria Group
-# 📊 Palmoria HR Case Study — Gender & Salary Analysis (Power BI + Excel)
+# 📊 Palmoria HR Case Study — Gender & Salary Analysis (Power BI)
 
-This project analyzes HR data from **Palmoria Group**, a manufacturing company in Nigeria, to uncover insights around **gender equality, salary structure, and bonus fairness** using **Power BI** and **Excel**.
+This project analyzes HR data from **Palmoria Group**, a manufacturing company in Nigeria, to uncover insights around **gender equality, salary structure, and bonus fairness** using **Power BI** .
 
 ---
 
@@ -29,8 +29,7 @@ This project analyzes HR data from **Palmoria Group**, a manufacturing company i
 ---
 
 ## 🛠 Tools Used
-
-- **Microsoft Excel 2016** (for data cleaning and basic pivot analysis)  
+ 
 - **Power BI Desktop** (for interactive dashboard and visual insights)
 
 ---
