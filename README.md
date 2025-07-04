@@ -21,10 +21,10 @@ This project analyzes HR data from **Palmoria Group**, a manufacturing company i
 
 | File | Description |
 |------|-------------|
-| `Palmoria Group emp-data.xlsx` | Cleaned employee data including salary, gender, department |
-| `Palmoria Group Bonus Rules.xlsx` | Bonus rules based on employee performance |
-| `Palmoria-HR-Analysis.pbix` | Final Power BI dashboard with visuals and insights |
-| `Palmoria-Recommendation.pdf` *(optional)* | Summary of HR recommendations |
+| `PALMORIA GROUP.png`| screenshot for gender distribution|
+| `PALMORIA GROUP.png`| Bonus rules based on employee performance |
+| `PALMORIA GROUP EMPLOYERS.pbix` | Final Power BI dashboard with visuals and insights |
+| `PALMORIA Hr Recommendation.docx ` | Summary of HR recommendations |
 
 ---
 
